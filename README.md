@@ -6,7 +6,7 @@ Ao iniciar o site, a aplicação abre um contador de 0% até 100%, e conforme a 
 | -------------  | --- |
 | :sparkles: Nome        | **Blurry Loading**
 | :label: Tecnologias | html, css, javascript
-| :rocket: URL         | ......
+| :rocket: URL         | https://loadingwithblurry.netlify.app
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://user-images.githubusercontent.com/72042885/212770888-ebff54c6-5bcd-41f9-88cd-235d102bbca9.png#vitrinedev)
