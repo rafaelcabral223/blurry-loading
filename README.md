@@ -1,6 +1,6 @@
 # Blurry Loading
 
-Ao iniciar o site, a aplicação abre um contador de 0% até 100%, e conforme a porcentagem vai aumentando, a imagem vcomeça a ficar focada.
+When starting the site, the application opens a counter from 0% to 100%. At 0%, the image is completely blurred and as the percentage increases, the image starts to come into focus.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
